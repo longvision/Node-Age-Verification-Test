@@ -1,0 +1,6 @@
+Projeto que usa:
+
+1- o Nunjuncks para renderizar as Views,
+2- o Express como mini-framework para rodar o servidor,
+3- o EdicorConfig para configurar o padrão do Projeto
+4- o ESLint para formatação automática do código.
